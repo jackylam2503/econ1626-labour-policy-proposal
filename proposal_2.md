@@ -11,7 +11,7 @@ AI is a structural change in the labour markets task allocation process. We cann
 
 AI is not a prior automation technology. This is important.
 
-AI is a supply shock to the labour market. Rather than cyclically reallocating tasks based on productivity levels, AI has started to supplant peoples' comparative advantages in task markets. Where a machinist once had tools that made her faster and more precise, now they have devices that can do her job entirely. This is the definition of structural unemployment.
+AI is a supply shock to the labour market. Rather than cyclically reallocating tasks based on productivity levels, AI has started to supplant peoples' comparative advantages in task markets. Where a machinist once had tools that made them faster and more precise, now they have devices that can do their job entirely. This is the definition of structural unemployment.
 
 The policy question is no longer if jobs will be lost to AI but who will lose those jobs and what will they do next.
 
@@ -27,7 +27,7 @@ Already we are seeing evidence that AI is driving a wedge between high- and low-
 
 The last channel by which AI might contribute to weaker labour demand is concentrated productivity growth in capital-intensive firms. While record profits currently enjoyed by multinationals are nothing new, AI systems allow them to maintain or grow these profits while hiring far fewer employees. Exposure to AI has been shown to increase the labour share of income elasticity by -13% (Autor et al., 2020). As superstar firms grow, but employees cannot, aggregate labour demand suffers.
 
-As with any labour market disruption, AI will create jobs as it destroys them. Unlike prior disruptions, AI is hitting jobs at the top of the value chain, where workers have both enjoyed higher wages and greater reemployment opportunities (based on employment data from Massachusetts Institute of Technology, 2023). Not acting now to alleviate the pain these workers will face will have significant consequences for public buy-in of AI down the line.
+As with any labour market disruption, AI will create jobs as it destroys them. Unlike prior disruptions, AI is hitting jobs at the top of the value chain, where workers have both enjoyed higher wages and greater reemployment opportunities (Massachusetts Institute of Technology, 2023). Not acting now to alleviate the pain these workers will face will have significant consequences for public buy-in of AI down the line.
 
 ---
 
@@ -51,7 +51,7 @@ Option Two emphasizes effective deployment of AI over distribution of recovery f
 
 Think truck drivers have a hard time switching careers? Australia's industrial relations system may make it harder still. Accumulating two weeks of paid leave over two years, having skill-specific certificates or 'points' that may not transfer across occupations are just some of the friction workers face when changing jobs. Option Three covers adapting the MUTCD to ensure that when workers do leave AI exposed industries they're ready to do so. Potential downsides to portability are limited but may disincentivise workers from staying, task-forcing specific skills.
 
-Of the three options above, a hybrid of Option One and Option Two is recommended. Neither do enough on their own to protect vulnerable workers but together support the dual imperatives of minimizing damage and rewarding workers who undertake reskilling efforts. Establishing a transition fund in 2026 with the guardrails of Option Two established immediately would hedge our bets against uncertainty while maintaining AI adaptation as a net-positive.
+A hybrid of Option One and Option Two is recommended. Neither do enough on their own to protect vulnerable workers but together support the dual imperatives of minimizing damage and rewarding workers who undertake reskilling efforts. Establishing a transition fund in 2026 with the guardrails of Option Two established immediately would hedge our bets against uncertainty while maintaining AI adaptation as a net-positive.
 
 | Criterion | Option One: National AI Reskilling Fund | Option Two: Regulatory Safeguards | Option Three: Portable Entitlements |
 |---|---|---|---|
@@ -109,6 +109,8 @@ Department of Employment and Workplace Relations (DEWR) (2024) *Australia's futu
 European Commission (2024) *Regulation (EU) 2024/1689 of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)*, Official Journal of the European Union.
 
 Goldman Sachs (2023) *The potentially large effects of artificial intelligence on economic growth*, Global Economics Research.
+
+Massachusetts Institute of Technology (MIT) (2023) *AI and the future of work*, MIT Work of the Future.
 
 OECD (2023) *OECD employment outlook 2023: Artificial intelligence and the labour market*, OECD Publishing, doi:10.1787/08785bba-en
 
