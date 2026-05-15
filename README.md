@@ -4,15 +4,11 @@
 
 This repository contains the Assessment 2 policy proposal for **ECON1626: Economics of Artificial Intelligence**.
 
-The proposal is addressed to the **Deputy Secretary, Employment & Skills, Department of Employment and Workplace Relations (DEWR)**. It analyses how AI is restructuring Australia's labour market across three channels — task displacement, polarisation of wages within occupations, and growth of "Superstar" firms. It also evaluates three policy responses using explicit criteria, and recommends a phased implementation package.
+The proposal is addressed to the **Deputy Secretary, Employment & Skills, Department of Employment and Workplace Relations (DEWR)**. It analyses how AI is restructuring Australia's labour market across three channels; task displacement, polarisation of wages within occupations, and growth of "Superstar" firms. It also evaluates three policy responses using explicit criteria, and recommends a phased implementation package.
 
 ---
 
 ## Repository Structure
-econ1626-labour-policy-proposal/
-│
-├── README.md        ← Start here: project overview and navigation
-└── proposal.md      ← The full 1,390 word policy brief 
 
 ---
 
