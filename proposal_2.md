@@ -90,3 +90,26 @@ Our analysis favours the Option One + Option Two package. Option Two provides im
 
 ---
 
+## References
+
+Acemoglu D (2024) *The simple macroeconomics of AI*, NBER Working Paper 32122, doi:10.1093/epolic/eiae042
+
+Acemoglu D and Restrepo P (2018) 'The race between man and machine: Implications of technology for growth, factor shares, and employment', *American Economic Review*, 108(6):1488–1542, doi:10.1257/aer.20160696
+
+Australian Bureau of Statistics (ABS) (2024) *Counts of Australian businesses, including entries and exits*, Commonwealth of Australia.
+
+Autor D, Chin C, Salomons A and Seegmiller B (2024) 'New frontiers: The origins and content of new work, 1940–2018', *Quarterly Journal of Economics*, 139(3):1399–1465, doi:10.1093/qje/qjae004
+
+Autor D, Dorn D, Katz L, Patterson C and Van Reenen J (2020) 'The fall of the labour share and the rise of superstar firms', *Quarterly Journal of Economics*, 135(2):645–709, doi:10.1093/qje/qjaa004
+
+Brynjolfsson E, Li D and Raymond L (2023) *Generative AI at work*, NBER Working Paper 31161, doi:10.3386/w31161
+
+Department of Employment and Workplace Relations (DEWR) (2024) *Australia's future workforce: AI exposure and labour market adjustment*, Commonwealth of Australia.
+
+European Commission (2024) *Regulation (EU) 2024/1689 of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)*, Official Journal of the European Union.
+
+Goldman Sachs (2023) *The potentially large effects of artificial intelligence on economic growth*, Global Economics Research.
+
+OECD (2023) *OECD employment outlook 2023: Artificial intelligence and the labour market*, OECD Publishing, doi:10.1787/08785bba-en
+
+Productivity Commission (2024) *AI adoption in Australian business: Opportunities and constraints*, Australian Government.
