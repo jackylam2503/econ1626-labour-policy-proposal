@@ -1,4 +1,9 @@
 # Preparing Australia's Workforce for the Age of Artificial Intelligence
+---
+
+## Executive Summary
+
+AI is a structural change in the labour markets task allocation process. We cannot rely on it working itself out as a productivity shock would. While automation over the past century has replaced routine manual jobs, AI is replacing non-routine cognitive work and hollowing out occupations that provided middle and high-skilled workers with wage premiums for many years. This paper assesses three mechanisms of change; task displacement, compression of wages within occupations and superstar firm dynamics as well as, three policy solutions: A National AI Reskilling Fund, Regulatory safeguards and portable entitlements for workers. This paper recommends adopting options 1 and 2 between 2026–2030. This would incur a combined net cost of $2.1 billion. If we do not act now, Australia is likely to face a deeply divided labour market.
 
 ---
 
