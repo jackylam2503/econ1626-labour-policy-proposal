@@ -77,16 +77,3 @@ Our analysis favours the Option One + Option Two package. Option Two provides im
 
 ---
 
-## References
-
-Autor, D., Dorn, D., Katz, L., Patterson, C., & Van Reenen, J. (2020). The fall of the labour share and the rise of superstar firms. *Quarterly Journal of Economics*, *135*(2), 645–709. https://doi.org/10.1093/qje/qjaa004
-
-Brynjolfsson, E., Li, D., & Raymond, L. (2023). *Generative AI at work*. NBER Working Paper 31161. https://doi.org/10.3386/w31161
-
-Goldman Sachs. (2023). *The potentially large effects of artificial intelligence on economic growth*. Global Economics Research.
-
-Massachusetts Institute of Technology. (2023). *AI and the future of work*. MIT Work of the Future.
-
-Mckeown, T. (2023). *Legal sector employment and AI exposure*. [Source details].
-
-Productivity Commission. (2024). *AI adoption in Australian business: Opportunities and constraints*. Australian Government.
