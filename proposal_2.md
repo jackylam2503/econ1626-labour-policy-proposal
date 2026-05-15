@@ -48,6 +48,14 @@ Think truck drivers have a hard time switching careers? Australia's industrial r
 
 Of the three options above, a hybrid of Option One and Option Two is recommended. Neither do enough on their own to protect vulnerable workers but together support the dual imperatives of minimizing damage and rewarding workers who undertake reskilling efforts. Establishing a transition fund in 2026 with the guardrails of Option Two established immediately would hedge our bets against uncertainty while maintaining AI adaptation as a net-positive.
 
+| Criterion | Option One: National AI Reskilling Fund | Option Two: Regulatory Safeguards | Option Three: Portable Entitlements |
+|---|---|---|---|
+| **Effectiveness** | High | Medium | Medium |
+| **Equity** | High | High | Medium |
+| **Feasibility** | Medium | Medium–High | Low |
+| **Cost-Efficiency** | Medium | High | Medium |
+| **Speed of Impact** | Medium (2–4 yrs) | High (6–12 months) | Low (4–6 yrs) |
+
 ---
 
 ## 4. Recommended Package & Implementation Plan
